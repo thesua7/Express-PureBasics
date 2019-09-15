@@ -1,0 +1,24 @@
+{
+  "name": "express-advance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+    
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesua7/Express-Advance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thesua7/Express-Advance/issues"
+  },
+  "homepage": "https://github.com/thesua7/Express-Advance#readme"
+}
